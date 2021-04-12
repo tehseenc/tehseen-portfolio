@@ -125,7 +125,6 @@ const Home = () => {
                         </ScrollContainerVertical>
                     </ScrollContainerHorizontal>
                 </LandingContainer>
-
             </WrapperPage>
         </WrapperMax>
     )
